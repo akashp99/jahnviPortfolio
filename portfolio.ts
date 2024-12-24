@@ -117,7 +117,7 @@ export const educationInfo: EducationType[] = [
 export const experience: ExperienceType[] = [
   {
     role: "Angular Developer",
-    company: "TeamLease Regteck Pvt Ltd",
+    company: "TeamLease regtech Pvt Ltd",
     companyLogo: "/img/icons/common/TeamLease.jpg",
     date: "June 2024 - Present",
     desc: "I specialize in building dynamic and responsive web applications with Angular and TypeScript, delivering scalable and user-friendly solutions for diverse industries. Designed and implemented RESTful APIs to ensure seamless backend communication and efficient data handling. Collaborated with cross-functional teams to create high-performance applications while debugging complex issues and optimizing performance for top-quality deliverables.",
@@ -158,14 +158,14 @@ export const projects: ProjectType[] = [
 export const feedbacks: FeedbackType[] = [
   {
     name: "Akash Pardeshi",
-    role: "Frontend Developer at TeamLease Regteck Pvt Ltd",
+    role: "Frontend Developer at TeamLease regtech Pvt Ltd",
     feedback:
       "You were a wonderful addition to our team. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Jahnvi is extremely difficult. She has contributed to the growth of our organization and continues to do so.",
   },
 
   {
     name: "Priyanka Bhosle",
-    role: "Backend Developer at TeamLease Regteck Pvt Ltd",
+    role: "Backend Developer at iTpreneur",
     feedback:
       "Jahnvi has been an invaluable member of our team. Her exceptional skills, professionalism, and innovative approach to problem-solving have made a significant impact. She has an innate ability to ask the right questions and tackle challenges with a fresh perspective. It's rare to find a teammate who not only excels technically but also contributes positively to the growth of the organization. Jahnvi's dedication and continuous contributions are greatly appreciated.",
   },
